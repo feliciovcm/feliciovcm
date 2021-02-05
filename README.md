@@ -14,5 +14,5 @@
 
 - 📫 Reach me at feliciovcm@gmail.com or at https://www.linkedin.com/in/vitor-felicio-24462b152/ and lets have a nice chat.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm)](https://github.com/feliciovcm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm&layout=compact&theme=tokyonight)](https://github.com/feliciovcm)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliciovcm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
