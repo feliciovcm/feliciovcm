@@ -1,6 +1,6 @@
 <h1>👨‍🔧Vitor Felicio 👨‍💻</h1> 
 
-<h2>Hi, it's a pleasure to have you here, welcome!</h2>
+
 
 
 
@@ -14,3 +14,4 @@
 
 - 📫 Reach me at feliciovcm@gmail.com or at https://www.linkedin.com/in/vitor-felicio-24462b152/ and lets have a nice chat.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliciovcm)](https://github.com/anuraghazra/github-readme-stats)
