@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliciovcm@gmail.com)](mailto:feliciovcm@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-felicio-24462b152/)](https://www.linkedin.com/in/vitor-felicio-24462b152/)
-[![](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=linkedin&logoColor=white&link=https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)](https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)
+[![](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)](https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)
 
 
 
