@@ -1,5 +1,6 @@
 <h1>👨‍🔧Vitor Felicio 👨‍💻</h1> 
 
+[![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliciovcm@gmail.com)](mailto:feliciovcm@gmail.com)
 
 
 
