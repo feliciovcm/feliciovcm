@@ -1,16 +1,16 @@
-<h1>Vitor Felicio</h1> 👋
+<h1>👨‍🔧Vitor Felicio 👨‍💻</h1> 
 
-<!--
-**feliciovcm/feliciovcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi, it's a pleasure to have you here, welcome!</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning backend development skills to improve my knowlogde.
+
+- 🔭 I’m currently working on finding my first job as developer.
+
+- 👯 I’m looking to collaborate on your project, company, or anything that I can show and improve my development skills.
+
+- 💬 Ask me about why I gave up on being a General Manager Engineer to be a software developer and I will convince you that following your dreams is always the right path.
+
+- 📫 Reach me at feliciovcm@gmail.com or at https://www.linkedin.com/in/vitor-felicio-24462b152/ and lets have a nice chat.
+
