@@ -20,7 +20,7 @@
   <a href="https://github.com/feliciovcm">
     <img
       align="center"
-         height="145"
+         height="148"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm&layout=compact&theme=tokyonight"
     />
   </a>
