@@ -20,9 +20,7 @@
   <a href="https://github.com/feliciovcm">
     <img
       align="center"
-         
-        
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm&layout=compact&theme=tokyonight"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm&layout=compact&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/feliciovcm">
