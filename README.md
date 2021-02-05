@@ -18,7 +18,7 @@
   <a href="https://github.com/feliciovcm">
     <img
       align="center"
-         height="165"
+         height="170"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm&layout=compact&theme=tokyonight"
     />
   </a>
