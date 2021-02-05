@@ -1,7 +1,7 @@
 <h1>👨‍🔧Vitor Felicio 👨‍💻</h1> 
 
 [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliciovcm@gmail.com)](mailto:feliciovcm@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-c0072b1?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-felicio-24462b152/)](https://www.linkedin.com/in/vitor-felicio-24462b152/)
+[![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-felicio-24462b152/)](https://www.linkedin.com/in/vitor-felicio-24462b152/)
 
 
 
