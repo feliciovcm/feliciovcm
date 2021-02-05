@@ -20,8 +20,8 @@
   <a href="https://github.com/feliciovcm">
     <img
       align="center"
-         height="170"
-         width="50"
+         
+        
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm&layout=compact&theme=tokyonight"
     />
   </a>
