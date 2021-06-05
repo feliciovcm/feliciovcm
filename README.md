@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning backend development skills to improve my knowlogde.
 
-- 🔭 I’m currently working on finding my first job as developer.
+- 🔭 I’m currently working in a project for WORKALOVE as front-end developer.
 
 - 👯 I’m looking to collaborate on your project, company, or anything that I can show and improve my development skills.
 
