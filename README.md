@@ -12,7 +12,7 @@ Developer at [Questrade Financial Group](https://www.questrade.com/home)
 
 Graduated as a Mechanical Engineer, but always a professional software engineer.
 
-- 🌱 I’m currently learning backend development skills to improve my knowlogde.
+- 🌱 I’m currently focused on improving my knowledge on microservices architecture and Cloud Development skills.
 
 - 🔭 I’m currently working on javascript, including Node.js, React.js and React-Native.
 
