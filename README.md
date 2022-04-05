@@ -1,18 +1,24 @@
-<h1>👨‍🔧Vitor Felicio 👨‍💻</h1> 
+<h1>Vitor Felicio</h1> 
 
 [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliciovcm@gmail.com)](mailto:feliciovcm@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-felicio-24462b152/)](https://www.linkedin.com/in/vitor-felicio-24462b152/)
 [![](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)](https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)
 
+### Hi there 👋
 
+## About Me:
+
+Developer at [Questrade Financial Group](https://www.questrade.com/home)
+
+Graduated as a Mechanical Engineer, but always a professional software engineer.
 
 - 🌱 I’m currently learning backend development skills to improve my knowlogde.
 
-- 🔭 I’m currently working in a project for WORKALOVE as front-end developer.
+- 🔭 I’m currently working on javascript, including Node.js, React.js and React-Native.
 
-- 👯 I’m looking to collaborate on your project, company, or anything that I can show and improve my development skills.
+- 👯 I’m looking to collaborate on your project, company, and anything that I can help building a healthy technology project.
 
-- 💬 Ask me about why I gave up on being a General Manager Engineer to be a software developer and I will convince you that following your dreams is always the right path.
+- 💬 Ask me about why I gave up on being a General Manager Engineer to be a Software Engineer and I will convince you that following your dreams is always the right path.
 
 - 📫 Reach me at feliciovcm@gmail.com or at https://www.linkedin.com/in/vitor-felicio-24462b152/ and lets have a nice chat.
 
