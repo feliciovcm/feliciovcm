@@ -1,41 +1,48 @@
-<h1>Vitor Felicio</h1> 
+# Vitor Felicio
 
-[![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliciovcm@gmail.com)](mailto:feliciovcm@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-felicio-24462b152/)](https://www.linkedin.com/in/vitor-felicio-24462b152/)
-[![](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)](https://www.instagram.com/vitorfeliciocmoreira/?hl=pt-br)
+**Senior Full-Stack Engineer · Team Lead** | React · TypeScript · Node.js · React Native
 
-### Hi there 👋
+I lead a team of 5 engineers at **Communify**, building a white-label web and mobile platform used by 1M+ people in the U.S., U.K. and Australia. I have 7+ years shipping production software across fintech, healthcare and edtech. I like the hard parts: performance, auth, real-time data and developer tooling.
 
-## About Me:
+📍 Brazil, fully remote, working U.S. hours · [LinkedIn](https://linkedin.com/in/feliciovcm) · [Email](mailto:feliciovcm@gmail.com)
 
-Frontend Engineer at [CareCru](https://carecru.com/)
+## Impact
 
-Graduated as a Mechanical Engineer, but always a professional software engineer.
+| 1M+ | 5s → <500ms | ~80 | 1,000+ |
+|:---:|:---:|:---:|:---:|
+| users on the React Native app (App Store + Google Play) | page loads for embeddable components | packages upgraded with Claude Code in gated phases | clinics on the chat platform I built at CareCru |
 
-- 🌱 I’m currently focused on improving my knowledge on microservices architecture and Cloud Development skills.
+## What I'm working on now
 
-- 🔭 I’m currently working on javascript, including Node.js, React.js and React-Native.
+- Leading the frontend of a content platform, including a visual editor (React + Preact Signals) with version control and real-time editing.
+- Multi-tenant React Native (Expo) apps with Keycloak OIDC + PKCE, biometric login, NATS real-time and streaming AI chat.
+- An AI-native engineering workflow: a React 19 / TypeScript 6 upgrade delivered with Claude Code, with 1,877 tests as the safety net.
 
-- 👯 I’m looking to collaborate on your project, company, and anything that I can help building a healthy technology project.
+## Experience
 
-- 💬 Ask me about why I gave up on being a General Manager Engineer to be a Software Engineer and I will convince you that following your dreams is always the right path.
+**Communify** · Senior Software Engineer & Team Lead · *Jun 2024 to present, remote*
+Team of 5, API Workbench, content editor, mobile apps, C# / .NET + PostgreSQL API.
 
-- 📫 Reach me at feliciovcm@gmail.com or at https://www.linkedin.com/in/vitor-felicio-24462b152/ and lets have a nice chat.
+**CareCru** · Senior Software Engineer · *Jun 2022 to Jul 2024, Vancouver, Canada (remote)*
+Real-time chat with Telnyx SMS, Go auth service (Ory Kratos), Module Federation micro-frontends, design system. Reporting API latency down 40%, SMS cost down 50%.
 
-<p align="center">
-  <a href="https://github.com/feliciovcm">
-    <img
-      align="center"
-         height="148"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliciovcm&layout=compact&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/feliciovcm">
-    <img
-      align="center"
-      width="430"
-      src="https://github-readme-stats.vercel.app/api?username=feliciovcm&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
-    />
-  </a>
+**Questrade** · Software Engineer · *Mar 2022 to Jun 2022*
+React Native investing app, real-time dashboards, Node.js microservices.
 
-</p>
+**Vizir Software Studio** (client: Natura &Co) · Software Developer · *Jun 2021 to Jun 2022*
+Sales-force app, GraphQL BFF, caching strategy that saved $20K per month.
+
+**Workalove** · Software Developer, then Team Lead · *Sep 2019 to Jul 2021*
+Promoted to lead within six months. Django APIs for 50k+ users.
+
+## Tech stack
+
+- **Frontend:** React, TypeScript, Vite, Micro-frontends, Storybook, Design systems
+- **Mobile:** React Native, Expo / EAS, Kotlin / Java bridges
+- **Backend:** Node.js, C# / .NET, Go, GraphQL, PostgreSQL, Redis
+- **Real-time & Auth:** WebSockets, NATS, Keycloak, OIDC + PKCE
+- **Quality & AI:** Vitest, Playwright, GitLab CI, Claude Code, AWS / GCP
+
+## Education & languages
+
+B.Sc. Mechanical Engineering, UFMG (with a sandwich year at the University of Western Australia). English fluent, Portuguese native, Spanish intermediate.
